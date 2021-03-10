@@ -24,9 +24,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog site.
 baseurl: "/newBlog" # the subpath of your site, e.g. /blog
 url: "https://mehran1801.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: mehran
 github_username:  mehran1801
-
+author: Mehran Hassan Khan
+linkedin_username: mehran1801
+youtube_username: mehran1801
+facebook_username: mehran1801
+# New fields are not defaulted by jekyll-new with the minima theme
+copyright: "Journey"
+# title-logo: /images/1.png
 # Build settings
 # theme: minima
 plugins:
